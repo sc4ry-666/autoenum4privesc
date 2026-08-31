@@ -77,7 +77,7 @@ Ferramenta para enumeração de ambiente.
 
 `bash
 # Clone o repositório
-git clone <https://github.com/seu-usuario/autoenum.git>
+git clone <https://github.com/sc4ry-666/autoenum4privesc/>
 
 # Entre no diretório
 cd autoenum
