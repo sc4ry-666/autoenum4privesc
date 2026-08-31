@@ -13,16 +13,16 @@ Ferramenta para enumeração de ambiente.
 
 ## 📋 Sobre a Ferramenta
 
-**AutoEnum** é uma ferramenta avançada de segurança ofensiva projetada para automatizar o processo de enumeração de sistemas e identificação de vetores de escalação de privilégios. Desenvolvida para profissionais de pentest, red team e pesquisadores de segurança, a ferramenta realiza uma análise abrangente do sistema alvo, buscando configurações incorretas, binários vulneráveis e oportunidades de exploração.
+**AutoEnum** é uma ferramenta que foi desenvolvida por mim durante um CTF que eu fazia, algum tempo atrás decidi melhorar ela e agora estou tornando-a pública. É uma ferramenta de segurança ofensiva projetada para automatizar o processo de enumeração de sistemas e identificação de vetores de escalação de privilégios. a ferramenta realiza uma análise abrangente do sistema alvo, buscando configurações incorretas, binários vulneráveis e oportunidades de exploração.
 
 ### 🎯 Principais Características
 
-- **Multi-plataforma**: Suporte completo para Linux e Windows
+- **Multi-plataforma**: 100% Funcional para Linux e Windows
 - **Enumeração abrangente**: Coleta informações detalhadas do sistema
 - **Detecção automática**: Identifica vulnerabilidades conhecidas
 - **Banco de exploits**: Referências para CVEs e exploits públicos
 - **Relatórios detalhados**: Saída formatada e salvamento automático
-- **Zero dependências**: Usa apenas bibliotecas padrão do Python
+- **Zero dependências**: Usa somente bibliotecas padrão do Python
 
 ## 🚀 Funcionalidades
 
