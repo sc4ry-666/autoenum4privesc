@@ -75,7 +75,7 @@ Ferramenta para enumeração de ambiente.
 
 ### Linux
 
-`bash
+bash
 # Clone o repositório
 git clone <https://github.com/sc4ry-666/autoenum4privesc/>
 
@@ -87,4 +87,3 @@ chmod +x autoenum.py
 
 # Execute
 python3 autoenum.py
-`
